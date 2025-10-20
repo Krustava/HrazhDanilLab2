@@ -8,6 +8,7 @@ namespace MyTeamCityProject
         {
             Console.WriteLine("Hello, TeamCity!");
             Console.WriteLine("Hello, TeamCity!");
+            Console.WriteLine("Hello, TeamCity!");
         }
     }
 }
